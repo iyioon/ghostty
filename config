@@ -3,4 +3,16 @@ theme = cyberdream
 background-opacity = 0.9
 background-blur-radius = 20
 
+window-padding-x = 20
 window-padding-balance = true
+
+window-height = 40
+window-width = 120
+
+# Enable saving and restoring window state
+# Make sure the setting:
+# Desktop & Dock > Windows > Close windows when quitting an application
+# is turned off
+window-save-state = always
+
+macos-option-as-alt = true
