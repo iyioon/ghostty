@@ -1,6 +1,6 @@
 theme = cyberdream
 
-background-opacity = 0.9
+background-opacity = 1
 background-blur-radius = 30
 
 window-padding-x = 20
