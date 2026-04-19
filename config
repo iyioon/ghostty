@@ -1,5 +1,7 @@
 theme = cyberdream
 
+font-size = 16
+
 background-opacity = 1
 background-blur-radius = 30
 
